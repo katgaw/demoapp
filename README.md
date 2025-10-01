@@ -1,4 +1,4 @@
-# 🇨🇿 Czech Republic History - Pink & Flashy FastAPI App 🇨🇿
+# 🇨🇿 Slovak Republic History - Pink & Flashy FastAPI App 🇨🇿
 
 A very pink and flashy FastAPI application showcasing the rich history of the Czech Republic in one comprehensive paragraph!
 
